@@ -1,0 +1,117 @@
+
+
+.plist-page{
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+}
+
+.filter-section{
+    flex-basis: 25%;
+    position: relative;
+    font-size: large;
+}
+
+.product-section{
+    flex-basis: 75%;
+    position: relative;
+}
+
+.vertical-line {
+    border: none;
+    border-left: 2px solid #1D232C; /* Adjust color and width as needed */
+    height: 100%; /* Adjust height as needed */
+    margin: 0 10px; /* Adjust margin as needed */
+    position: absolute;
+    top: 0px;
+    right: 0px
+    
+  }
+  .navbar-search {
+    border: solid #1D232C 1px;
+    border-radius: 10px;
+    padding: 10px;
+  display: flex;
+    align-items: center;
+    width: 95%;
+}
+
+.navbar-search input {
+    border: none;
+   width: 100%;
+    background-color: transparent;
+    
+}
+
+input:focus {
+    outline: none;
+}
+
+.filter-section-price,.filter-section-arrivals,.filter-section-occasion,.filter-section-colors{
+    margin-top: 3vw;
+    margin-bottom: 10px;
+    
+    
+}
+
+.products{
+    margin-top: 2vw;
+    padding:auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.pic-card:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.pic-card {
+    border-radius: 10px;
+border:1px;
+background-color: rgb(217, 245, 245);
+color: #20375a;
+padding: 10px;
+width: 250px;
+align-items: center;
+text-align: center;
+transition: transform 1s;
+scale:0.95;
+}
+.pic-card h1{
+    font-size: 20px;
+    text-decoration: underline;
+}
+.pic-card p{
+    font-size: 10px;
+    font-weight: 400;
+    font-weight: bold;
+}
+
+.details-btn{
+ padding: 5px;
+}
+
+.details-btn button{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    color: whitesmoke;
+    background-color: rgb(243, 154, 11);
+    cursor: pointer;
+}
+
+.details-btn button:focus{
+    transform: 1.1s;
+    background-color: rgba(246, 189, 121, 0.693);
+}
+
+.pic-card i::before{
+    color: rgb(208, 208, 134);
+content: '\f005 \f005 \f005 \f005 \f005';
+color: #f8ce0b;
+}
+

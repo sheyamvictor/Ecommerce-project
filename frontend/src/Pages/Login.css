@@ -1,0 +1,98 @@
+
+.log {
+    background-image: url('../Components/Assets/workshop.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 100dvh;
+    padding: 20px;
+    display: flex;
+
+    justify-content: center;
+}
+
+    
+
+.log-card form{
+    border: 5px;
+    padding: 50px;
+border-radius: 15px;
+display: block;
+margin-bottom: 50px;
+    background-color: rgba(237, 237, 237, 0.456);
+    box-sizing: border-box;
+    display: flex;
+ align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap: 20px;
+   
+    
+}
+
+.log-card input{
+    width: 50%;
+    outline: none;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
+
+.log-card button{
+    padding: 10px 10px;
+    font-weight: bold;
+    background-color:rgba(79, 60, 201, 0.893);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.reg-card form{
+    border: 5px;
+    padding: 50px;
+border-radius: 15px;
+width:100%;
+margin-bottom: 50px;
+    background-color: rgba(237, 237, 237, 0.456);
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+
+}
+
+.reg-card button{
+    padding: 10px 10px;
+    font-weight: bold;
+    background-color: rgba(79, 60, 201, 0.893);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+
+.reg-card input{
+    width: 50%;
+    outline: none;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+
+.reg{
+    background-image: url('../Components/Assets/workshop.png');
+    background-size: contain;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    height: 100dvh;
+    padding: 10px;
+}

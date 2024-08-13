@@ -1,0 +1,327 @@
+[  
+   { "name":"Poco-X3 5G",
+    "price":  15999,
+    "description":"Silver Flow, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The box",
+    "ratings":4.5,
+    "images":[{
+        "image":"/images/product/image 1.png"
+    }],
+    "category":"Mobiles",
+    "stock": 5,
+    "seller":"Xiaomi"
+
+    },
+
+    { "name":"Google-Pixel6 5G",
+    "price":18999,
+    "description":"Black-fade, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The box",
+    "ratings":4.2,
+    "images":[{
+        "image":"/images/product/image 2.png"
+    }],
+    "category":"Mobiles",
+    "stock": 5,
+    "seller":"Google"
+
+    },
+
+    { "name":"i-phone 14 5G",
+    "price":49999,
+    "description":"Violet blush, 128GB Storage) | A-bionic ship 5G | 50MP Sony AI Camera | Charger in The out of box",
+    "ratings":4.0,
+    "images":[{
+        "image":"/images/product/image 4.png"
+    }],
+    "category":"Mobiles",
+    "stock": 5,
+    "seller":"Apple"
+
+    },
+    { "name":"Redmi-14 5G",
+    "price":13999,
+    "description":"Aqua Flow, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The box",
+    "ratings":3.8,
+    "images":[{
+        "image":"/images/product/image 3.png"
+    }],
+    "category":"Mobiles",
+    "stock": 5,
+    "seller":"Xiaomi"
+
+    },
+
+    { "name":"SamSung-Ultra 5G",
+    "price":52999,
+    "description":"Black 6GB RAM, 128GB Storage) |Snapdragons 895 fastest chip 5G | 150MP Sony AI Camera | Charger in The out of box",
+    "ratings":4.8,
+    "images":[{
+        "image":"/images/product/image 5.png"
+    }],
+    "category":"Mobiles",
+    "stock": 5,
+    "seller":"SamSung"
+
+    },
+
+    { "name":"Poco-X6 5G",
+    "price":15999,
+    "description":"Aqua Flow, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The box",
+    "ratings":4.1,
+    "images":[{
+        "image":"/images/product/image 6.png"
+    }],
+    "category":"Mobiles",
+    "stock": 5,
+    "seller":"Xiaomi"
+
+    },
+
+    { "name":"Fashionable Bag",
+    "price":520,
+    "description":"Impulse Diggy 35L Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Travel Backpack Water Resistant Fits Up to 16 Inch Laptop with 1 Year Warranty",
+    "ratings":4.5,
+    "images":[{
+        "image":"/images/product/image 7.png"
+    }],
+    "category":"Bags",
+    "stock": 5,
+    "seller":"Travel"
+
+    },
+
+    { "name":"Tourist-Bag",
+    "price":1599,
+    "description":"Impulse Diggy 35L Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Travel Backpack Water Resistant Fits Up to 16 Inch Laptop with 1 Year Warranty",
+    "ratings":4.5,
+    "images":[{
+        "image":"/images/product/image 8.png"
+    }],
+    "category":"Bags",
+    "stock": 5,
+    "seller":"Travel"
+
+    },
+
+    { "name":"Kids-bag",
+    "price":299,
+    "description":"Impulse Diggy 10L/School Travel Backpack Water  with 1 Year Warranty",
+    "ratings":3.5,
+    "images":[{
+        "image":"images/product/image 9.png"
+    }],
+    "category":"Bags",
+    "stock": 5,
+    "seller":"Travel"
+
+    },
+
+    { "name":"Luggage-bag",
+    "price":4999,
+    "description":"Impulse Diggy 35L Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Travel Backpack Water Resistant Fits Up to 16 Inch Laptop with 1 Year Warranty",
+    "ratings":4.3,
+    "images":[{
+        "image":"/images/product/image 10.png"
+    }],
+    "category":"Bags",
+    "stock": 5,
+    "seller":"Travel"
+
+    },
+
+    { "name":"Comfort-Travel",
+    "price":2999,
+    "description":"Impulse Diggy 35L Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Travel Backpack Water Resistant Fits Up to 16 Inch Laptop with 1 Year Warranty",
+    "ratings":4.0,
+    "images":[{
+        "image":"/images/product/image 11.png"
+    }],
+    "category":"Bags",
+    "stock": 5,
+    "seller":"Travel"
+
+    },
+
+    { "name":"Ladies-Hand bags",
+    "price":1219,
+    "description":"Lino Perros Women Handbag",
+    "ratings":4.2,
+    "images":[{
+        "image":"/images/product/image 12.png"
+    }],
+    "category":"Bags",
+    "stock": 5,
+    "seller":"Travel"
+
+    },
+
+    { "name":"Women-bag",
+    "price":1119,
+    "description":"Lino Perros Women Handbag",
+    "ratings":4.2,
+    "images":[{
+        "image":"/images/product/image 13.png"
+    }],
+    "category":"Bags",
+    "stock": 5,
+    "seller":"Travel"
+
+    },
+
+    { "name":"Track-Suit",
+    "price":1299,
+    "description":" Dry Fit Nike Track Suit Set for Men | Slim Fit Perfect for Jogging and Lounging",
+    "ratings":4.2,
+    "images":[{
+        "image":"/images/product/image 14.png"
+    }],
+    "category":"Dress",
+    "stock": 5,
+    "seller":"Nike"
+
+    },
+
+    { "name":"Bagy shirt and Pant",
+    "price":2999,
+    "description":"Zilcon Women Ribbed Solid Oversized Tshirt for Women | Oversize T-Shirts for Women | Women Boat Neck Short Batwing Sleeve Tops | Bagy Fit Women t",
+    "ratings":4.2,
+    "images":[{
+        "image":"/images/product/image 15.png"
+    }],
+    "category":"Dress",
+    "stock": 5,
+    "seller":"Nike"
+
+    },
+
+    { "name":"white-Formal dress",
+    "price":2998,
+    "description":"FUNDAY FASHION Women Solid Formal Satin Shirt",
+    "ratings":4.2,
+    "images":[{
+        "image":"/images/product/image 16.png"
+    }],
+    "category":"Dress",
+    "stock": 5,
+    "seller":"Nike"
+
+    },
+
+    { "name":"Minister-court",
+    "price":3999,
+    "description":"MANQ Men's Slim Fit Single Breasted Blazer",
+    "ratings":4.3,
+    "images":[{
+        "image":"/images/product/image 17.png"
+    }],
+    "category":"Dress",
+    "stock": 5,
+    "seller":"Nike"
+
+    },
+
+    { "name":"Green-track fits",
+    "price":1699,
+    "description":"Dry Fit Track Suit Set for Men | Slim Fit Perfect for Jogging and Lounging",
+    "ratings":4.2,
+    "images":[{
+        "image":"/images/product/image 18.png"
+    }],
+    "category":"Dress",
+    "stock": 5,
+    "seller":"Nike"
+
+    },
+
+    { "name":"Jeans-Pants",
+    "price":2999,
+    "description":"Men's Contrast Stitch Stretchable Regular Fit Jeans",
+    "ratings":4.1,
+    "images":[{
+        "image":"/images/product/image 19.png"
+    }],
+    "category":"Dress",
+    "stock": 5,
+    "seller":"Nike"
+
+    },
+
+    { "name":"Brown-Formal-shoe",
+    "price":999,
+    "description":"Men's MAX Formal",
+    "ratings":4.1,
+    "images":[{
+        "image":"/images/product/image 20.png"
+    }],
+    "category":"Shoe",
+    "stock": 5,
+    "seller":"Bata"
+
+    },
+
+    { "name":"Casual-shoe",
+    "price":799,
+    "description":"Men's MAX Casual Collections",
+    "ratings":4.5,
+    "images":[{
+        "image":"/images/product/image 21.png"
+    }],
+    "category":"Shoe",
+    "stock": 5,
+    "seller":"Bata"
+
+    },
+
+    { "name":"Gray-Fade-shoe",
+    "price":499,
+    "description":"Men's MAX Formal Casual Collections",
+    "ratings":4.0,
+    "images":[{
+        "image":"/images/product/image 22.png"
+    }],
+    "category":"Shoe",
+    "stock": 5,
+    "seller":"Walkers"
+ 
+    },
+
+    { "name":"Nike-Brands-Shoes",
+    "price":1999,
+    "description":"Men's MAX Party-shoe",
+    "ratings":4.3,
+    "images":[{
+        "image":"/images/product/image 23.png"
+    }],
+    "category":"Shoe",
+    "stock": 5,
+    "seller":"Nike"
+
+    },
+
+    { "name":"Puma-Sneaker-shoe",
+    "price":2999,
+    "description":"Men's MAX Sneakers Collections",
+    "ratings":4.2,
+    "images":[{
+        "image":"/images/product/image 24.png"
+    }],
+    "category":"Shoe",
+    "stock": 5,
+    "seller":"puma"
+
+    },
+
+    { "name":"Jacking-shoe",
+    "price":999,
+    "description":"Men's MAX Jacking",
+    "ratings":4.0,
+    "images":[{
+        "image":"/images/product/image 25.png"
+    }],
+    "category":"Shoe",
+    "stock": 5,
+    "seller":"Adidas"
+
+    }
+
+
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "22448596-23fb-40ad-83b1-7d7a05de873b",
+        "colId": "history",
+        "containerId": "",
+        "name": "https://localhost:5000/api/v1/products",
+        "url": "https://localhost:5000/api/v1/products",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2024-07-20T13:50:48.685Z",
+        "modified": "2024-07-20T13:50:48.685Z",
+        "headers": []
+    }
+]

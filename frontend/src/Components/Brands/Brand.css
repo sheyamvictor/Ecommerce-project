@@ -1,0 +1,89 @@
+.brand-package{
+    padding: 20px;
+    background-color: rgba(110, 179, 176, 0.705);
+    box-shadow: rgba(64, 188, 242, 0.403) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;    
+
+    
+}
+
+.brands-list{
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    align-items: center;
+padding: 28px;
+}
+.brands-list h2{
+  text-decoration: underline;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 40px;
+
+}
+
+.brand-tag{
+    display: flex;
+    justify-content: space-evenly;
+align-items: center;
+text-align: center;
+gap: 20px;
+flex-wrap: wrap;
+}
+
+.brand-tag li{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+ background-color: #ffffff;
+ border: none;
+ border-radius: 5px;
+    padding: 5px 10px;
+    color: rgb(22, 21, 21); 
+    font-weight: bold; 
+    font-size: medium; 
+    transition: transform 1s;;
+}
+
+.brand-tag li img{
+width: 50px;
+align-items: center;
+}
+
+.brand-tag li:hover{
+    transform: scaleX(1.1);
+    transition: 1s;
+    text-decoration: underline;
+   
+    
+    cursor: pointer;
+    
+}
+
+
+
+.brand-pic{
+    padding: 20px;
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+}
+
+.brand-pic img{
+width: 500px;
+height: 500px;
+}
+
+hr{
+ margin: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+
+.brand-pic img{
+    width:300px;
+       height: 250px;
+    }
+
+}

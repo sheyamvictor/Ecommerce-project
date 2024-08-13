@@ -1,0 +1,134 @@
+.cart-container{
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+    padding: 16px;
+}
+
+.cart-pic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cart-pic img{
+    margin-top: 20px;
+    width: 300px;
+
+}
+
+.cart-container1{
+    display: grid;
+align-items: center;
+    grid-column: auto;
+    grid-template-columns:2fr 2fr;
+
+    border: solid black;
+    border-radius: 50px;
+}
+
+.cart-tag{
+    display: flex;
+ flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+   
+    align-items: center;
+    
+}
+
+.cart-price{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 26px;
+    font-size: 28px;
+    font-weight: bold;
+    color: rgb(142, 84, 84);
+}
+
+.cart-indic{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.cart-indic input{
+    height: 25px;
+    width: 25px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.cart-del{
+    color: red;
+    font-size: 23px;
+    cursor: progress;
+}
+
+.sub,.add{
+    height: 25px;
+  width: 25px;
+  display: flex;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  justify-content: center;
+  align-items: center;
+    border-radius: 50%;
+    cursor: pointer;
+} 
+
+.sub{
+    background-color: red;
+}
+
+.add{
+    background-color: rgb(48, 48, 150);
+}
+
+.cart-sum{
+    padding: 16px;
+    margin-top: 16px;
+}
+
+.cart-total{
+    font-size: 25px;
+    
+   
+    gap: 16px;
+}
+ 
+.cart-place button{
+padding: 10px 10px;
+background-color: rgb(214, 166, 22);
+border: none;
+border-radius: 5px;
+font-size: medium;
+font-weight: bold;
+color: white;
+cursor: pointer;
+width: 60px;
+}
+
+.cart-place button:focus{
+    background-color: rgba(214, 166, 22, 0.482);
+}
+
+.total{
+    color: rgb(2, 219, 2);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.est{
+    color: rgb(237, 74, 74);
+    font-size: 20px;
+    font-weight: bold;
+}
