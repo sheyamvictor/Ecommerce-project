@@ -12,7 +12,7 @@ function Cart() {
   const { setCartItemCount } = useCart();
 
   useEffect(() => {
-    axios.get("http://localhost:5000/api/v1/addCard").then(res => {
+    axios.get("http://localhost:5001/api/v1/addCard").then(res => {
       if (res.status === 200) {
         setCartProducts(res.data.data);
         setCartItemCount(Count => Count + 1);
@@ -34,7 +34,7 @@ function Cart() {
 
   const deleteItem = async (id) => {
     try {
-      const response = await axios.delete(`http://localhost:5000/api/v1/addCard/${id}`);
+      const response = await axios.delete(`http://localhost:5001/api/v1/addCard/${id}`);
       if (response.status === 200) {
         toast.error("Deleted successfully.....");
         setCartProducts(cartProducts.filter(item => item._id !== id));

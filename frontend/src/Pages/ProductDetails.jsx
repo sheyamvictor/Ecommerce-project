@@ -17,7 +17,7 @@ function ProductDetails() {
   const { id } = useParams();
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/v1/product/' + id)
+    fetch('http://localhost:5001/api/v1/product/' + id)
       .then(res => res.json())
       .then(res => {
         setProduct(res.product)
@@ -38,7 +38,7 @@ function ProductDetails() {
 
     let isMounted = true; // Flag to prevent state updates if the component is unmounted
 
-    axios.post('http://localhost:5000/verify', data)
+    axios.post('http://localhost:5001/verify', data)
       .then((res) => {
         if (isMounted) {
           if (res.data.status === "success") {
@@ -64,7 +64,7 @@ function ProductDetails() {
   async function handleCart() {
     console.log(product);
 
-    await axios.post('http://localhost:5000/api/v1/addCard', product).then((res) => {
+    await axios.post('http://localhost:5001/api/v1/addCard', product).then((res) => {
 
       if (res.status === 200) {
         toast.success("Cart item added successfully....")

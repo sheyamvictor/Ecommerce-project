@@ -24,7 +24,7 @@ function Navbar() {
       const token = localStorage.getItem('token');
       if (token) {
         try {
-          const { data } = await axios.post('http://localhost:5000/verify', { token });
+          const { data } = await axios.post('http://localhost:5001/verify', { token });
           if (data.message == "success") {
             setAuth(false);
             navigate('/');

@@ -14,7 +14,7 @@ function Home() {
 
     let isMounted = true; // Flag to prevent state updates if the component is unmounted
 
-    axios.post('http://localhost:5000/verify', data)
+    axios.post('http://localhost:5001/verify', data)
       .then((res) => {
         if (isMounted) {
           if (res.data.status === "success") {

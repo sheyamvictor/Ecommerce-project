@@ -14,7 +14,7 @@ const navigate=useNavigate()
 
 const registerUser =async(e)=>{
     e.preventDefault()
- const res= await axios.post('http://localhost:5000/register',data)
+ const res= await axios.post('http://localhost:5001/register',data)
  if(res){
   navigate('/')
  }else{
