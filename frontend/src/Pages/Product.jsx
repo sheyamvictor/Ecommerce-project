@@ -45,8 +45,8 @@ function Product() {
             <i onClick={searchName} className="fa-solid fa-magnifying-glass"></i>
           </form>
 
-          <div className="products">
-            {products.map(product => <Plists product={product} />)}
+          <div className="products" >
+            {products.map((product,index) => <Plists key={index} product={product}/>)}
           </div>
         </div>
       </div>
